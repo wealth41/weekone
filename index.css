@@ -1,0 +1,42 @@
+.header-container{
+    display: flex;
+}
+.logo{
+    text-align: center;
+}
+.second-header{
+  text-align: center; 
+  padding: 30px 30px;
+
+}
+.carrosel{
+    display: flex;
+    height: 60%;
+    justify-content: center;
+}
+
+.image4s{
+width: 150px; 
+padding: 5px;
+border-radius: 15px;
+margin: 10px 10px; 
+align-content: center;
+}
+.smart-container{
+    justify-content: center;
+    text-align: center;
+}
+.footer-content{
+ background-image: url(/utils/assets/images/image-footer.jpg);   
+ height: 150px;
+ 
+ 
+}
+.footer1{
+    background-color: rgb(77, 137, 168);
+    opacity: 80%;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
